@@ -3,6 +3,15 @@
   ```
   sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 
   ```
+  ```
+  apt update -y
+  ```
+  ```
+  apt install git -y
+  ```
+  ```
+  apt install python3-pip -y
+  ```
 
 * ## Edit File
  * search.txt
