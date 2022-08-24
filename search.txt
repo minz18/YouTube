@@ -1,4 +1,4 @@
-keyword 1 :::: exact video title 1
-keyword 2 :::: exact video title 2
-keyword 3 :::: exact video title 2
-keyword 4 :::: exact video title 3
+Lagu SMVLL Terbaik 2018 :::: 10 Lagu SMVLL Terbaik 2018 (Cover Reggae)
+Lagu SMVLL Terbaik :::: 10 Lagu SMVLL Terbaik 2018 (Cover Reggae)
+Lagu SMVLL :::: 10 Lagu SMVLL Terbaik 2018 (Cover Reggae)
+Lagu SMVLL reggae :::: 10 Lagu SMVLL Terbaik 2018 (Cover Reggae)
