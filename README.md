@@ -15,7 +15,7 @@
   
   Open command prompt and type
   ```
-  git clone https://github.com/minz2001/YouTube-Viewer.git --depth 10
+  git clone https://github.com/minz18/YouTube-Viewer.git --depth 10
   ```
   ```
   cd YouTube-Viewer
