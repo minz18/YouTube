@@ -10,6 +10,9 @@
   <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/MShawon/YouTube-Viewer?color=success"></a>
 </p>
 
+  ```
+  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY>
+  ```
 
 * ## Edit File
  * search.txt
