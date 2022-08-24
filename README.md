@@ -1,7 +1,7 @@
 
 
   ```
-  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <PUBKEY>
+  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 
   ```
 
 * ## Edit File
