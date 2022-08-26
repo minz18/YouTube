@@ -31,7 +31,7 @@ soupsieve==2.3.2.post1
 tabulate==0.8.9
 trio==0.19.0
 trio-websocket==0.9.2
-undetected-chromedriver==3.1.5.post3
+undetected-chromedriver==3.1.5
 urllib3==1.26.9
 webencodings==0.5.1
 websockets==10.3
