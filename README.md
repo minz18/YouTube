@@ -4,7 +4,7 @@
   sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 
   ```
   ```
-  apt update -y
+  apt upgrade -y
   ```
   ```
   apt install git -y
