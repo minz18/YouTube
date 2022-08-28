@@ -1,48 +1,13 @@
 
 
   ```
-  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 
+  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 4EB27DB2A3B88B8B
   ```
   ```
   apt upgrade -y
   ```
   ```
-  apt install git -y
-  ```
-  ```
-  apt install python3-pip -y
-  ```
-
-* ## Edit File
- * search.txt
- * urls.txt
-
- 
-* ## Installation
-
-  First, make sure you have installed git and Python version between 3.7.x to 3.9.x
-  
-  Open command prompt and type
-  ```
-  git clone https://github.com/minz18/YouTube.git --depth 10
-  ```
-  ```
-  cd YouTube-Viewer
-  ```
-  ```
-  python -m pip install --upgrade pip wheel
-  ```
-  ```
-  pip install "setuptools<59"
-  ```
-  ```
-  pip install -r requirements.txt
-  ```
-  ```
-  python proxy_check.py
-  ```
-  ```
-  python youtube_viewer.py
+  apt install git -y && apt install python3-pip -y
   ```
 
 # Linux / Mac
