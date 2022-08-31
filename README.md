@@ -20,7 +20,7 @@
   git clone https://github.com/minz18/YouTube.git --depth 10
   ```
   ```
-  cd YouTube-Viewer
+  cd YouTube
   ```
   ```
   python3 -m pip install --upgrade pip wheel
