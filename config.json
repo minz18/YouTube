@@ -18,7 +18,7 @@
     },
     "background": true,
     "bandwidth": true,
-    "playback_speed": 2,
+    "playback_speed": 1,
     "max_threads": 5,
     "min_threads": 2
 }
