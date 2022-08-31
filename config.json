@@ -6,8 +6,8 @@
     },
     "database": false,
     "views": 1000,
-    "minimum": 85.0,
-    "maximum": 95.0,
+    "minimum": 95.0,
+    "maximum": 120.0,
     "proxy": {
         "category": "f",
         "proxy_type": false,
