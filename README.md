@@ -4,10 +4,10 @@
   sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys 4EB27DB2A3B88B8B
   apt update
   apt upgrade -y
-  apt install git -y && apt install python3-pip -y
   ```
 
   ```
+  apt install git -y && apt install python3-pip -y
   git clone https://github.com/minz18/YouTube.git --depth 10
   cd YouTube
   python3 -m pip install --upgrade pip wheel
