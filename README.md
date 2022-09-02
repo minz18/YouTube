@@ -14,6 +14,7 @@
   pip3 install "setuptools<59"
   pip3 install -r requirements.txt
   python3 youtube_viewer.py
+
   ```
 
    * After closing program, if chromedrivers are still running. Open your terminal and run 
