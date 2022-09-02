@@ -6,12 +6,12 @@
     },
     "database": false,
     "views": 1000,
-    "minimum": 180.0,
-    "maximum": 200.0,
+    "minimum": 95.0,
+    "maximum": 120.0,
     "proxy": {
         "category": "f",
         "proxy_type": false,
-        "filename": "GoodProxy.txt",
+        "filename": "p.txt",
         "authentication": false,
         "proxy_api": false,
         "refresh": 0.0
@@ -20,5 +20,5 @@
     "bandwidth": true,
     "playback_speed": 1,
     "max_threads": 5,
-    "min_threads": 2
+    "min_threads": 3
 }
