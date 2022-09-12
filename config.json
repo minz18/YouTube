@@ -11,7 +11,7 @@
     "proxy": {
         "category": "f",
         "proxy_type": false,
-        "filename": "p.txt",
+        "filename": "GoodProxy.txt",
         "authentication": false,
         "proxy_api": false,
         "refresh": 0.0
